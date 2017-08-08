@@ -7,6 +7,6 @@ deploy:
    email: "975057282@qq.com"
    api_key: "${TOKEN}"
    allow_failure: true
+   tag: next
    on:
-      branch: master
-      tag: next
+      tags: true
