@@ -1,0 +1,29 @@
+{
+  "name": "ivue-doc-loader",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuhonyon/vue-doc-loader.git"
+  },
+  "keywords": [
+    "ivue",
+    "markdown"
+  ],
+  "author": "yuhonyon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuhonyon/vue-doc-loader/issues"
+  },
+  "homepage": "https://github.com/yuhonyon/vue-doc-loader#readme",
+  "dependencies": {
+    "best-marked": "^1.3.0",
+    "clipboard": "^2.0.1",
+    "glob": "^7.1.2",
+    "gray-matter": "^4.0.1",
+    "highlight.js": "^9.12.0"
+  },
+  "_from": "ivue-doc-loader@2.0.0",
+  "_resolved": "http://registry.npm.taobao.org/ivue-doc-loader/download/ivue-doc-loader-2.0.0.tgz"
+}
